@@ -1,6 +1,5 @@
 # Proyecto de Práctica Git - Semana 3
-proyecto simple para aprender a usar Git y GitHub.
-Este proyecto fue creado para la práctica evaluativa de Git y GitHub.
+Este proyecto fue creado para la práctica de Git y GitHub.
 
 ## Pasos realizados:
 1. Inicialización del repositorio local con `git init`.
