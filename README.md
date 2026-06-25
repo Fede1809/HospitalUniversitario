@@ -1,4 +1,5 @@
-# Proyecto de Práctica Git - Semana 3
+HOSPITAL UNIVERSITARIO - Actividades
+# Proyecto de Práctica Git - Semana 3 (prueba.html)
 Este proyecto fue creado para la práctica de Git y GitHub.
 
 ## Pasos realizados:
@@ -6,3 +7,5 @@ Este proyecto fue creado para la práctica de Git y GitHub.
 2. Creación de archivos y registro de 3 commits en el historial local.
 3. Creación del repositorio remoto en GitHub.
 4. Vinculación y subida del proyecto mediante `git push`.
+
+# Semana 4 - HTML (index.html)
